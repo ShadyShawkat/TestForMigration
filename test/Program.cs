@@ -10,6 +10,10 @@ namespace test
     {
         static void Main(string[] args)
         {
+            Employee employee = new Employee();
+            employee.name = "Amr";
+            employee.Address = "Assuit";
+            employee.Email = "akjdk@jdkj";
         }
     }
 }
